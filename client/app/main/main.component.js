@@ -5,17 +5,12 @@ import routing from './main.routes';
 export class MainController {
   features = [
     {
-      title: 'Easy to Learn',
-      description: 'Our courses are easy to learn'
+      title: 'Get Certified',
+      description: 'Track the credits you need to get or renew your certification.'
     },
     {
-      title: 'Priced for you',
-      description: 'Only pay if you become certified.'
-    },
-    {
-      title: 'Improve your career',
-      description: 'Earning a certification from certifi is a big step forward '
-      + 'in achieving your career goals.'
+      title: 'Data Fidelity',
+      description: 'Never lose track of your progress again. View and print credit documents any time.'
     },
   ];
 
